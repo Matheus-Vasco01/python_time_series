@@ -1,11 +1,11 @@
 O que é um cabeçalho em um arquivo Python, para que serve? O que é uma docstring e qual a sua diferenca?
 o cabecalho e a parte inicial de um arquivo py.
 ex: """
-Nome do arquivo: meu_programa.py
+Nome do arquivo: programa.py
 Autor: Seu Nome
 Data: 2025-08-25
 Versão: 1.0
-Descrição: Este programa faz X, Y e Z
+Descrição: Este programa faz...
 """
 
 a Docstring serve para documentar funcoes, classes e modulos, Fica logo após a declaração e serve para explicar o que o código faz. Pode ser acessada com help() ou __doc__.
