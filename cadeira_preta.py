@@ -16,7 +16,7 @@ o cabecalho fica no inicio do arquivo, enquanto a docstring fica dentro de funco
 
 """
 Nome do arquivo: exercicios_funcoes.py
-Autor:          [Seu Nome Aqui]
+Autor:          Matheus
 Data:           10/11/2025
 Versão:         1.0
 Descrição:      Módulo de exercícios Python com funções utilitárias
